@@ -1,0 +1,90 @@
+{
+  "posts": [
+    {
+      "title": "New Post 1",
+      "slug": "post-1",
+      "content": "Test Post",
+      "postedAt": "2021-06-17T22:19:13.491Z"
+    },
+    {
+      "title": "New Post 2",
+      "slug": "post-2",
+      "content": "Test Post #2",
+      "postedAt": "2021-06-17T22:19:25.206Z"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Rice Krispies",
+      "category": "food",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/RKTsquares.jpg",
+      "source": "https://en.wikipedia.org/wiki/Rice_Krispies_Treats",
+      "description": "Delicious corn-based rice grains melted together with marshmallows into a square-like shape.",
+      "price": 0.99
+    },
+    {
+      "id": 2,
+      "name": "Flamin Hot Cheetos",
+      "category": "food",
+      "image": "https://static.openfoodfacts.org/images/products/896/400/009/0879/front_en.14.full.jpg",
+      "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
+      "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
+      "price": 1.5
+    },
+    {
+      "id": 3,
+      "name": "Apples",
+      "category": "food",
+      "image": "https://images.unsplash.com/photo-1569870499705-504209102861?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=658&q=80",
+      "source": "https://unsplash.com/photos/s7r4xjKXo0s",
+      "description": "An apple a day keeps the doctor away.",
+      "price": 1
+    },
+    {
+      "id": 4,
+      "name": "Oranges",
+      "category": "food",
+      "image": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80",
+      "source": "https://unsplash.com/photos/A4BBdJQu2co",
+      "description": "Great source of vitamin C",
+      "price": 1.2
+    },
+    {
+      "id": 5,
+      "name": "Pears",
+      "category": "food",
+      "image": "https://images.unsplash.com/photo-1514756331096-242fdeb70d4a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+      "source": "https://unsplash.com/photos/RW6Wz9QaoKk",
+      "description": "Fresh green pears",
+      "price": 1.3
+    },
+    {
+      "id": 6,
+      "name": "Grapes",
+      "category": "food",
+      "image": "https://images.unsplash.com/photo-1578829779691-99b60bd8c7be?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=961&q=80",
+      "source": "https://unsplash.com/photos/y2MeW00BdBo",
+      "description": "Juicy and sweet, but contains seeds!",
+      "price": 1.4
+    },
+    {
+      "id": 7,
+      "name": "Bananas",
+      "category": "food",
+      "image": "https://images.unsplash.com/photo-1547484482-1aa93685aea7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80",
+      "source": "https://unsplash.com/photos/f6O2d4US2iA",
+      "description": "Peel before eating",
+      "price": 1.5
+    },
+    {
+      "id": 8,
+      "name": "Strawberries",
+      "category": "food",
+      "image": "https://images.unsplash.com/photo-1587815073078-f636169821e3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80",
+      "source": "https://unsplash.com/photos/j2qY5wJma88",
+      "description": "Rich in nutrients while being sweet and juicy",
+      "price": 1.5
+    }
+  ]
+}
